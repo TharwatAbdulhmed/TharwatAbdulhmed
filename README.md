@@ -28,29 +28,44 @@
 <a href="https://t.me/T_H_A_R_W_A_T" target="_blank"><img src="https://img.shields.io/badge/-Tharwat%20on%20Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 ---
-
 ### 🛠 Tech Stack
+
+#### ⚙️ Backend (.NET Core)
 
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)&nbsp;
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-05122A?style=flat&logo=.net)&nbsp;
-![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Entity Framework Core](https://img.shields.io/badge/-Entity%20Framework%20Core-05122A?style=flat)&nbsp;
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![REST API](https://img.shields.io/badge/-REST%20API-05122A?style=flat)&nbsp;
+![JWT](https://img.shields.io/badge/-JWT-05122A?style=flat&logo=jsonwebtokens)&nbsp;
+![LINQ](https://img.shields.io/badge/-LINQ-05122A?style=flat)&nbsp;
+![AutoMapper](https://img.shields.io/badge/-AutoMapper-05122A?style=flat)&nbsp;
+![FluentValidation](https://img.shields.io/badge/-FluentValidation-05122A?style=flat)&nbsp;
+![SignalR](https://img.shields.io/badge/-SignalR-05122A?style=flat&logo=signalr)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
+
+#### 🎨 Frontend (Angular)
+
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=DD0031)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
+
+#### 🧰 Dev Tools & Workflow
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=5C2D91)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 
 ---
 
-### 📊 GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharwatDev&layout=compact&theme=radical" alt="Top Languages" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=TharwatDev&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-<br clear="both">
 
 ---
 
